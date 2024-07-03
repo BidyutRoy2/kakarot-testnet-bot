@@ -6,7 +6,7 @@
 
 ## Steps
 
-### 1. Clone Repository
+### 1. Clone Repository From Git
 
 ```bash
 git clone https://github.com/BidyutRoy2/kakarot-testnet-bot.git
@@ -18,7 +18,7 @@ cd kakarot-testnet-bot
 
 ### 2. Instal Dependency
 
-```bash
+```
 npm install
 ```
 
@@ -32,13 +32,12 @@ Create a file named .env in the project root directory.
 
 ### Go .env File Past Code & Save Your Private Key & Save ( CTRL+S )
 ```
-
-PRIVATE_KEYS=["your private key 1", "your private key 2"]
+PRIVATE_KEYS=["Your Private Key & Save"]
 ```
 
 ### 4. Run script
 
-```bash
+```
 npm run start
 ```
 
