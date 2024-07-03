@@ -26,12 +26,8 @@ npm install
 
 Create a file named .env in the project root directory.
 
-```bash
-touch .env
 ```
-
-```bash
-nano .env
+.env
 ```
 
 ```bash
