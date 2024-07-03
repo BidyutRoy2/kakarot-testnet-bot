@@ -30,8 +30,9 @@ Create a file named .env in the project root directory.
 .env
 ```
 
-```bash
-SEED_PHRASES=["your seed phrase 1", "your seed phrase 2"]
+### Go .env File Past Code & Save Your Private Key & Save ( CTRL+S )
+```
+
 PRIVATE_KEYS=["your private key 1", "your private key 2"]
 ```
 
