@@ -1,1 +1,0 @@
-# kakarot-testnet-bot
